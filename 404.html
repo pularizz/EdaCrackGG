@@ -1,0 +1,14 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Edalin</title><meta name="robots" content="noindex"></head><body><script>
+(function(){
+  var path=location.pathname;
+  var parts=path.split('/').filter(Boolean);
+  var base='/';
+  if(location.hostname.endsWith('.github.io') && parts.length) base='/'+parts[0]+'/';
+  var last=parts.length?parts[parts.length-1]:'';
+  var slug=last.replace(/\.html$/i,'');
+  if(slug==='index'||!slug) { location.replace(base); return; }
+  if(/^page-\d+$/i.test(slug)) { location.replace(base+'#page='+slug.split('-')[1]); return; }
+  if(slug==='genres') { location.replace(base+'#genres'); return; }
+  location.replace(base+'#game='+encodeURIComponent(slug));
+})();
+</script></body></html>
