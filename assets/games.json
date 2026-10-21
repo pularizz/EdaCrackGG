@@ -1,0 +1,938 @@
+[
+  {
+    "name": "Dark Souls II Scholar of the First Sin",
+    "slug": "dark-souls-ii-scholar-of-the-first-sin",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Deep Dish Dungeon",
+    "slug": "deep-dish-dungeon",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/uploads/Deep-Dish-Dungeon.webp"
+  },
+  {
+    "name": "Gladio Mori",
+    "slug": "gladio-mori",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Incident Commander",
+    "slug": "incident-commander",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "Twin Mirror",
+    "slug": "twin-mirror",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "EverRail",
+    "slug": "everrail",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Dead Island 2: Gold Edition",
+    "slug": "dead-island-2-gold-edition",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "The Cabin Game",
+    "slug": "the-cabin-game",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Assassins Creed III",
+    "slug": "assassins-creed-iii",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Company of Heroes 3",
+    "slug": "company-of-heroes-3",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "RUSE",
+    "slug": "ruse",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "Crawl",
+    "slug": "crawl",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Scam With Your Friends",
+    "slug": "scam-with-your-friends",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/uploads/Scam-With-Your-Friends.webp"
+  },
+  {
+    "name": "INSIDE",
+    "slug": "inside",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Farming Simulator 22",
+    "slug": "farming-simulator-22",
+    "genre": "شبیه‌سازی",
+    "image": ""
+  },
+  {
+    "name": "Persona 3 Reload",
+    "slug": "persona-3-reload",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Resident Evil 4 Remake",
+    "slug": "resident-evil-4-remake",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "The Long Drive",
+    "slug": "the-long-drive",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Tropico 6",
+    "slug": "tropico-6",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "Dawson Oaks Trailer Park",
+    "slug": "dawson-oaks-trailer-park",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Subnautica Below Zero",
+    "slug": "subnautica-below-zero",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Backrooms Code Yellow",
+    "slug": "backrooms-code-yellow",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "Alchemy Factory",
+    "slug": "alchemy-factory",
+    "genre": "شبیه‌سازی",
+    "image": ""
+  },
+  {
+    "name": "Needle In A Haystack",
+    "slug": "needle-in-a-haystack",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/uploads/Needle-In-A-Haystack-.webp"
+  },
+  {
+    "name": "NO BACKUP",
+    "slug": "no-backup",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "The Forest",
+    "slug": "the-forest",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Inside the Backrooms",
+    "slug": "inside-the-backrooms",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "Big Walk",
+    "slug": "big-walk",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Hell Let Loose Vietnam",
+    "slug": "hell-let-loose-vietnam",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Frostpunk 2",
+    "slug": "frostpunk-2",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "LEGO Voyagers",
+    "slug": "lego-voyagers",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Bloodborne",
+    "slug": "bloodborne",
+    "genre": "نقش‌آفرینی",
+    "image": "https://gold-team.org/wp-content/uploads/pc_bloodborne-e1792502689729.webp"
+  },
+  {
+    "name": "Project Zomboid",
+    "slug": "project-zomboid",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Moving Out 2",
+    "slug": "moving-out-2",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "Meta Ghost: Breaking Show",
+    "slug": "meta-ghost-breaking-show",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "PUBG",
+    "slug": "pubg",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "Happy Wheels",
+    "slug": "happy-wheels",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/uploads/Happy-Wheels.webp"
+  },
+  {
+    "name": "Plains of Pain",
+    "slug": "plains-of-pain",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Need for Speed Hot Pursuit Remastered",
+    "slug": "need-for-speed-hot-pursuit-remastered",
+    "genre": "مسابقه‌ای",
+    "image": ""
+  },
+  {
+    "name": "Soul Chained",
+    "slug": "soul-chained",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Invokyr",
+    "slug": "invokyr",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/uploads/Invokyr.webp"
+  },
+  {
+    "name": "Papers, Please",
+    "slug": "papers-please",
+    "genre": "شبیه‌سازی",
+    "image": ""
+  },
+  {
+    "name": "Avatar: Frontiers of Pandora",
+    "slug": "avatar-frontiers-of-pandora",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Gears of War E-Day",
+    "slug": "gears-of-war-e-day",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Dying Light 2 Stay Human",
+    "slug": "dying-light-2-stay-human",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Delta Force",
+    "slug": "delta-force",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "Prince of Persia The Lost Crown",
+    "slug": "prince-of-persia-the-lost-crown",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "BOMBANANA!",
+    "slug": "bombanana",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Keep Digging",
+    "slug": "keep-digging",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Gunfire Reborn",
+    "slug": "gunfire-reborn",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "slug": "red-dead-redemption-2",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Permafrost",
+    "slug": "permafrost",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/uploads/Permafrost.webp"
+  },
+  {
+    "name": "Crash Bandicoot 4 Its About Time",
+    "slug": "crash-bandicoot-4-its-about-time",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Schedule I",
+    "slug": "schedule-i",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Core Keeper",
+    "slug": "core-keeper",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "GTFO",
+    "slug": "gtfo",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Heave Ho 2",
+    "slug": "heave-ho-2",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "STAR WARS Jedi: Survivor",
+    "slug": "star-wars-jedi-survivor",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Assassin’s Creed Black Flag Resynced",
+    "slug": "assassin-s-creed-black-flag-resynced",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Mall Together",
+    "slug": "mall-together",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Escape First 2",
+    "slug": "escape-first-2",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "ELDEN RING – Tarnished Pack",
+    "slug": "elden-ring-tarnished-pack",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Battlefield 6",
+    "slug": "battlefield-6",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "Call of Duty: Warzone 2",
+    "slug": "call-of-duty-warzone-2",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "Pyramidion",
+    "slug": "pyramidion",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Wildmender",
+    "slug": "wildmender",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Raft",
+    "slug": "raft",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Romestead",
+    "slug": "romestead",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "R.E.P.O.",
+    "slug": "r-e-p-o",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Halloween The Game",
+    "slug": "halloween-the-game",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Sitting Ducks",
+    "slug": "sitting-ducks",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Clair Obscur: Expedition 33",
+    "slug": "clair-obscur-expedition-33",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Boat Together",
+    "slug": "boat-together",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "SpeedRunners 2 King of Speed",
+    "slug": "speedrunners-2-king-of-speed",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Age of Empires III Definitive Edition",
+    "slug": "age-of-empires-iii-definitive-edition",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "Ragnarock",
+    "slug": "ragnarock",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Monstrum 2",
+    "slug": "monstrum-2",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "UNO",
+    "slug": "uno",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "Meowgic",
+    "slug": "meowgic",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Deep Rock Galactic",
+    "slug": "deep-rock-galactic",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "WE ARE SO DEAD",
+    "slug": "we-are-so-dead",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Far Cry 3",
+    "slug": "far-cry-3",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "Spirit Island",
+    "slug": "spirit-island",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "Cronos: The New Dawn",
+    "slug": "cronos-the-new-dawn",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "FIFA 21",
+    "slug": "fifa-21",
+    "genre": "ورزشی / فایتینگ",
+    "image": ""
+  },
+  {
+    "name": "Halo Campaign Evolved",
+    "slug": "halo-campaign-evolved",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "iRacing Studios NASCAR 26",
+    "slug": "iracing-studios-nascar-26",
+    "genre": "مسابقه‌ای",
+    "image": "https://gold-team.org/wp-content/uploads/iRacing-Studios-NASCAR-26.webp"
+  },
+  {
+    "name": "The Last of Us Part II Remastered",
+    "slug": "the-last-of-us-part-ii-remastered",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Hearts of Iron IV",
+    "slug": "hearts-of-iron-iv",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "Among Us",
+    "slug": "among-us",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "ELDEN RING NIGHTREIGN",
+    "slug": "elden-ring-nightreign",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Aragami 2",
+    "slug": "aragami-2",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "over the hill",
+    "slug": "over-the-hill",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Dino Party",
+    "slug": "dino-party",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "Bloodspill",
+    "slug": "bloodspill",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "Valheim",
+    "slug": "valheim",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Dispatch",
+    "slug": "dispatch",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Polterguys: Possession Party",
+    "slug": "polterguys-possession-party",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "Dying Light: The Beast",
+    "slug": "dying-light-the-beast",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Rust",
+    "slug": "rust",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/webp-express/webp-images/uploads/Rust-Gold-Team.jpg.webp"
+  },
+  {
+    "name": "Dokapon Kingdom Connect",
+    "slug": "dokapon-kingdom-connect",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "Dreadline Net Quota",
+    "slug": "dreadline-net-quota",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Marvel Rivals",
+    "slug": "marvel-rivals",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Call of Duty WWII",
+    "slug": "call-of-duty-wwii",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "DEADBOLT",
+    "slug": "deadbolt",
+    "genre": "ترسناک",
+    "image": "https://gold-team.org/wp-content/uploads/DEADBOLT.webp"
+  },
+  {
+    "name": "Machine Party",
+    "slug": "machine-party",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "Human Fall Flat",
+    "slug": "human-fall-flat",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Project Breakout",
+    "slug": "project-breakout",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 4",
+    "slug": "call-of-duty-modern-warfare-4",
+    "genre": "شوتر",
+    "image": "https://gold-team.org/wp-content/uploads/Call-of-Duty®-Modern-Warfare®-4.webp"
+  },
+  {
+    "name": "Perennial Order",
+    "slug": "perennial-order",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Palworld",
+    "slug": "palworld",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Total War: Three Kingdoms",
+    "slug": "total-war-three-kingdoms",
+    "genre": "استراتژی",
+    "image": ""
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 2019",
+    "slug": "call-of-duty-modern-warfare-2019",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "SILENT HILL: Townfall",
+    "slug": "silent-hill-townfall",
+    "genre": "ترسناک",
+    "image": "https://gold-team.org/wp-content/uploads/silent_hill-_townfall_-_deluxe_edition.webp"
+  },
+  {
+    "name": "ELDEN RING – Shadow of the Erdtree",
+    "slug": "elden-ring-shadow-of-the-erdtree",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Deceit 2",
+    "slug": "deceit-2",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "Viractal Will You Trust Your Party",
+    "slug": "viractal-will-you-trust-your-party",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "The Crew 2",
+    "slug": "the-crew-2",
+    "genre": "مسابقه‌ای",
+    "image": ""
+  },
+  {
+    "name": "Horizon Forbidden West",
+    "slug": "horizon-forbidden-west",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Ready or Not",
+    "slug": "ready-or-not",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "Shift At Midnight",
+    "slug": "shift-at-midnight",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "FIFA 20",
+    "slug": "fifa-20",
+    "genre": "ورزشی / فایتینگ",
+    "image": ""
+  },
+  {
+    "name": "Pass The Fear",
+    "slug": "pass-the-fear",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "A Smithing Game",
+    "slug": "a-smithing-game",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "ELDEN RING",
+    "slug": "elden-ring",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Mall Rivals",
+    "slug": "mall-rivals",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "Dig Dig Die",
+    "slug": "dig-dig-die",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Apex Legends",
+    "slug": "apex-legends",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "Escape the Backrooms",
+    "slug": "escape-the-backrooms",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "Satisfactory",
+    "slug": "satisfactory",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "The Blood of Dawnwalker",
+    "slug": "the-blood-of-dawnwalker",
+    "genre": "نقش‌آفرینی",
+    "image": "https://gold-team.org/wp-content/uploads/images-1-copy-2.webp"
+  },
+  {
+    "name": "Crimson Desert",
+    "slug": "crimson-desert",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "SILENT HILL f",
+    "slug": "silent-hill-f",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "PEAK",
+    "slug": "peak",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Party Animals",
+    "slug": "party-animals",
+    "genre": "مهمانی / Co-op",
+    "image": "https://gold-team.org/wp-content/uploads/Party-Animals.webp"
+  },
+  {
+    "name": "Lost Records: Bloom & Rage",
+    "slug": "lost-records-bloom-rage",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Indiana Jones and the Great Circle",
+    "slug": "indiana-jones-and-the-great-circle",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Grain Rot",
+    "slug": "grain-rot",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "METAL GEAR SOLID Peace Walker Master",
+    "slug": "metal-gear-solid-peace-walker-master",
+    "genre": "شوتر",
+    "image": ""
+  },
+  {
+    "name": "MARVEL Tokon Fighting Souls",
+    "slug": "marvel-tokon-fighting-souls",
+    "genre": "ورزشی / فایتینگ",
+    "image": ""
+  },
+  {
+    "name": "Stick Fights",
+    "slug": "stick-fights",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Sons Of The Forest",
+    "slug": "sons-of-the-forest",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Dauntless",
+    "slug": "dauntless",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Cheaters Table",
+    "slug": "cheaters-table",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Phasmophobia",
+    "slug": "phasmophobia",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "The Crew Motorfest",
+    "slug": "the-crew-motorfest",
+    "genre": "مسابقه‌ای",
+    "image": "https://gold-team.org/wp-content/uploads/The-Crew-Motorfest.webp"
+  },
+  {
+    "name": "Dragon Age The Veilguard",
+    "slug": "dragon-age-the-veilguard",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Ghostwire: Tokyo",
+    "slug": "ghostwire-tokyo",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "NINJA GAIDEN 2 Black",
+    "slug": "ninja-gaiden-2-black",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Minecraft Dungeons II",
+    "slug": "minecraft-dungeons-ii",
+    "genre": "نقش‌آفرینی",
+    "image": ""
+  },
+  {
+    "name": "Out of Ore",
+    "slug": "out-of-ore",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "Mortal Kombat 1",
+    "slug": "mortal-kombat-1",
+    "genre": "اکشن / ماجراجویی",
+    "image": "https://gold-team.org/wp-content/uploads/Mortal-Kombat-1.webp"
+  },
+  {
+    "name": "Friendly Steps",
+    "slug": "friendly-steps",
+    "genre": "مهمانی / Co-op",
+    "image": ""
+  },
+  {
+    "name": "Lethal Company",
+    "slug": "lethal-company",
+    "genre": "ترسناک",
+    "image": ""
+  },
+  {
+    "name": "Noita",
+    "slug": "noita",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  },
+  {
+    "name": "METAL EDEN",
+    "slug": "metal-eden",
+    "genre": "اکشن / ماجراجویی",
+    "image": ""
+  }
+]
